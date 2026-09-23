@@ -1,0 +1,39 @@
+body {
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+    background: linear-gradient(blue, red);
+    font-size: 40px;
+    text-shadow: 0px 0px 3px white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+#logo {
+    width: 250px;
+    padding: 10px 30px;
+    margin-top: 130px;
+
+}
+
+.spotify {
+    width: 170px;
+}
+
+h1, h2 {
+    gap: 5px;
+    margin: 10;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+
+
+
+
+   
